@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628291696 source:/home/maromo/itapira/fateclp/aula0608/codigo01/saudacao.c
+	<stdio.h>
+	<stdlib.h>
+
