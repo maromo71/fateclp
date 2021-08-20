@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629500533 source:/home/maromo/itapira/fateclp/aula2008/exercicio09/main.c
+	<stdio.h>
+	<stdlib.h>
+
