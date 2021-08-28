@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630110180 source:/home/maromo/itapira/fateclp/aula2708/exemplo01/main.c
+	<stdio.h>
+	<stdlib.h>
+
