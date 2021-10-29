@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635546989 source:/home/maromo/itapira/fateclp/aula2910/exemplo01/calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1635547447 source:/home/maromo/itapira/fateclp/aula2910/exemplo01/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1635546771 /home/maromo/itapira/fateclp/aula2910/exemplo01/calculadora.h
+
